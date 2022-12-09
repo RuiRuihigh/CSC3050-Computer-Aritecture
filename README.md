@@ -1,5 +1,5 @@
 # CSC3050-Computer-Aritecture
-These are some projects I finished when I took the course  
+These are some projects I finished when I took the Computer Aritecture course.  
 Brief Introductions of four projects:  
 Assignment1: Implement a MIPS assembler, which can translate the assembly language file to an executable file.  
 Assignment2: Implement a MIPS simulator, which can simualte the excution of a binary file.  
