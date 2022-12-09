@@ -1,0 +1,1 @@
+C:\Users\86147\Desktop\csc3050\A1\new\testfile.asm C:\Users\86147\Desktop\csc3050\A1\new\output.txt
